@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ManeksAdmin.github.io/snippets-vg7qfq/sitemap.xml
